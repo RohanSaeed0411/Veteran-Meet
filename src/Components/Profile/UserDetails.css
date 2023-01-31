@@ -1,0 +1,12 @@
+.details {
+  flex-direction: row;
+  display: flex;
+  padding: 16px;
+  background-color: #c8c7c7;
+}
+
+.user-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+}

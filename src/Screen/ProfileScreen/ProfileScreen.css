@@ -1,0 +1,6 @@
+.Profile {
+    
+    background-color: #cdcdcd;
+    display: flex;
+  flex-direction: column;
+}
